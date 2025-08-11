@@ -1,7 +1,5 @@
 # Build a Three-Tier Web App
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-threetier)
-
 **Author:** Manish Sharma  
 **Email:** manishsharma7@hotmail.com
 
